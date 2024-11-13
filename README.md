@@ -2,7 +2,13 @@
 
 O objetivo deste teste é criar uma aplicação simples com backend e frontend que permita a criação e listagem de objetos em um banco de dados MongoDB. Você deve usar Node.js com NestJS ou Express para o backend e qualquer framework JavaScript ou bibliotecas desejadas (ou nenhuma) para o frontend.
 
+## Instruções para o desenvolvimento e conclusão do teste
 
+- Desenvolva usando a IDE e as ferramentas que se sentir mais a vontade.
+
+- Crie um repositório público e compartilhe o link do resultado através do mesmo canal de comunicação que recebeu esse teste.
+
+- O tempo para a entrega desse teste é de 3 dias após recebe-lo.
 ## Requisitos do Projeto
 ### 1. Backend (Node.js com NestJS ou Express)
 
@@ -53,7 +59,7 @@ Crie um arquivo README.md detalhado que contenha:
 - Passos para rodar o Docker e a aplicação.
 - Como acessar o frontend e backend (endpoints e instruções de navegação).
 
-### Requisitos Técnicos
+## Requisitos Técnicos
 
 **Tecnologias Obrigatórias:** Node.js, MongoDB, Docker.
 
@@ -74,7 +80,9 @@ Crie um arquivo README.md detalhado que contenha:
 **Estrutura do Frontend**: Simplicidade e funcionalidade da interface de criação e listagem.
 
 
-### Considerações finais
+
+
+## Considerações finais
 
 Sinta-se livre para adicionar mais recursos e funcionalidades como desejar, aplicar padrões de projetos, conceitos de arquitetura e organização de código. 
 
